@@ -1,3 +1,6 @@
 mail:
   domain: gmail.com
+one:
+  mount:
+     message: message for server
   
